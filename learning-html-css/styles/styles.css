@@ -1,0 +1,17 @@
+#third{
+    font-weight: bold;
+    float: left;
+    
+} 
+#first{
+    font-family: 'Courier New', Courier, monospace;
+}
+.paragraph{
+    font-size: large;
+}
+div {
+    display: block; 
+    color: blue; 
+    text-align: center;
+    background-color: aquamarine;
+}
